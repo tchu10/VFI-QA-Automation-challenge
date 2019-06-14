@@ -23,10 +23,10 @@ Your task is to write some end-to-end tests with [Cypress](https://www.cypress.i
 1. Write a first end-to-end test that
    1. Starts on the [landing page](https://www.binance.com/en)
    1. Clicks the ETH/BTC button leading to [Pair trading view](https://www.binance.com/en/trade/ETH_BTC)
-   1. Verifies that all important information is there, e.g. trading chart, limit, market, stop limit input boxes etc. (leaving this purposefully open to see what you think makes sense to test)
+   1. Verifies that all important information is loaded, e.g. trading chart, limit, market, stop limit input boxes etc. (leaving this purposefully open to see what you think makes sense to test)
 1. Write a second end-to-end test that
    1. Starts on the [Pair trading view](https://www.binance.com/en/trade/ETH_BTC)
-   1. Enters some invalid values into the Buy ETH form
+   1. Enters some valid values into the Buy ETH form
    1. Make sure the Total field is correct value (Total = price \* Amount)
    1. Verifies that you can't submit the form since you are not loged in
 1. Write a data last end-to-end (websockets) test that
