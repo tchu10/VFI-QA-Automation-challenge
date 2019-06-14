@@ -16,7 +16,7 @@ Your task is to write some end-to-end tests with [Cypress](https://www.cypress.i
 1. Write some end-to-end tests fulfilling the [Acceptance Criteria](#acceptance-criteria) below
 1. Create a pull request from your fork into this original repository.
 1. In your pull request description, please document how to run the code you've written and how to verify the fulfillment of the acceptance criteria. Feel free to add additional thoughts, e.g. why you implemented a feature in a certain way, what were your learnings, etc.
-1. Mention @c-gray, @faisalnwz or @miltonlopezjr in the pull request description to let us know you're ready for review. Alternatively, send us an email to Chris Gray <cgray@vfacility.ai>
+1. Mention @c-gray, @faisalnwz or @miltonlopezjr in the pull request description to let us know you're ready for review. Alternatively, send us an email @ <cgray@vfacility.ai>
 
 ## Acceptance Criteria
 
