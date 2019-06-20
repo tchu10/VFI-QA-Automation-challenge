@@ -2,17 +2,17 @@
 
 ## The Goal
 
-Your task is to write some end-to-end tests with [Cypress](https://www.cypress.io) to demonstrate your test automation abilities.
+Your task is to write some end-to-end tests to demonstrate your test automation abilities. We use [Cypress](https://www.cypress.io), but feel free to use another testing platform, such as Selenium, if you would like.
 
 ## What you'll need
 
-1. The [Cypress Docs](https://docs.cypress.io)
+1. The [Cypress Docs](https://docs.cypress.io) (optional)
 1. The platform: [binance trading platform](https://www.binance.com/en)
 
 ## The Process
 
 1. Fork this GitHub repo
-1. In your forked repo, set up a new Cypress environment
+1. In your forked repo, set up a new testing environment
 1. Write some end-to-end tests fulfilling the [Acceptance Criteria](#acceptance-criteria) below
 1. Create a pull request from your fork into this original repository.
 1. In your pull request description, please document how to run the code you've written and how to verify the fulfillment of the acceptance criteria. Feel free to add additional thoughts, e.g. why you implemented a feature in a certain way, what were your learnings, etc.
