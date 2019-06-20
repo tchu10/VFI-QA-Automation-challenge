@@ -2,12 +2,12 @@
 
 ## The Goal
 
-Your task is to write some end-to-end tests to demonstrate your test automation abilities. We use [Cypress](https://www.cypress.io), but feel free to use another testing platform, such as Selenium, if you would like.
+Your task is to write some end-to-end tests to demonstrate your test automation abilities. We use [Cypress](https://www.cypress.io), but feel free to use another platform, such as Selenium, if you would like.
 
 ## What you'll need
 
+1. The platform: [binance trading platform](https://www.binance.com/en)The [Cypress Docs](https://docs.cypress.io) (optional)
 1. The [Cypress Docs](https://docs.cypress.io) (optional)
-1. The platform: [binance trading platform](https://www.binance.com/en)
 
 ## The Process
 
