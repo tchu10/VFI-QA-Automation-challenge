@@ -6,7 +6,7 @@ Your task is to write some end-to-end tests to demonstrate your test automation 
 
 ## What you'll need
 
-1. The platform: [binance trading platform](https://www.binance.com/en)The [Cypress Docs](https://docs.cypress.io) (optional)
+1. The platform: [binance trading platform](https://www.binance.com/en)
 1. The [Cypress Docs](https://docs.cypress.io) (optional)
 
 ## The Process
